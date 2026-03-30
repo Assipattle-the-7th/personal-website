@@ -1,0 +1,85 @@
+{
+  "posts": [
+    {
+      "id": "why-ai-staffing-is-broken",
+      "title": "Why AI Staffing Is Still Broken (And How to Fix It)",
+      "date": "2025-02-10",
+      "tags": ["AI", "Healthcare", "Staffing"],
+      "description": "Most AI staffing tools are glorified resume filters. Here's what real orchestration looks like.",
+      "readTime": "6 min read",
+      "excerpt": "Most AI staffing tools are glorified resume filters. They optimize for speed, not fit. And in healthcare, that distinction costs lives.",
+      "slug": "why-ai-staffing-is-broken",
+      "featured": true
+    },
+    {
+      "id": "from-agency-to-saas",
+      "title": "From Agency to SaaS: What I Learned Running Both",
+      "date": "2025-01-22",
+      "tags": ["Entrepreneurship", "SaaS", "Strategy"],
+      "description": "After running a marketing agency for years, pivoting to product-led growth required rewiring everything I thought I knew about building a business.",
+      "readTime": "8 min read",
+      "excerpt": "After running a marketing agency for years, pivoting to product-led growth required rewiring everything I thought I knew about building a business.",
+      "slug": "from-agency-to-saas",
+      "featured": true
+    },
+    {
+      "id": "healthcare-automation-ethics",
+      "title": "The Ethics of Automating Healthcare Hiring",
+      "date": "2025-01-05",
+      "tags": ["AI", "Healthcare", "Ethics"],
+      "description": "Automation in healthcare hiring isn't just a technical problem. It's a moral one. Here's how we're thinking about it.",
+      "readTime": "5 min read",
+      "excerpt": "Automation in healthcare hiring isn't just a technical problem. It's a moral one. When the wrong hire can cost a patient their life, the bar for AI decision-making is fundamentally different.",
+      "slug": "healthcare-automation-ethics",
+      "featured": true
+    },
+    {
+      "id": "building-ai-first-culture",
+      "title": "Building an AI-First Culture at a 12-Person Startup",
+      "date": "2024-12-18",
+      "tags": ["AI", "Leadership", "Culture"],
+      "description": "AI-first isn't a tech decision. It's a hiring, process, and mindset shift that has to start at the top.",
+      "readTime": "7 min read",
+      "excerpt": "AI-first isn't a tech decision. It's a hiring, process, and mindset shift that has to start at the top.",
+      "slug": "building-ai-first-culture",
+      "featured": false
+    },
+    {
+      "id": "orchestration-vs-automation",
+      "title": "Orchestration vs. Automation: Why the Distinction Matters",
+      "date": "2024-12-01",
+      "tags": ["AI", "Automation", "Product"],
+      "description": "Automation does a task. Orchestration manages a system. In healthcare staffing, the difference is everything.",
+      "readTime": "4 min read",
+      "excerpt": "Automation does a task. Orchestration manages a system. In healthcare staffing, the difference is everything.",
+      "slug": "orchestration-vs-automation",
+      "featured": false
+    }
+  ],
+  "projects": [
+    {
+      "id": "axia-health",
+      "name": "Axia Health",
+      "year": "2024–Present",
+      "description": "AI-powered staffing orchestration and hire management platform built for healthcare organizations.",
+      "url": "#",
+      "active": true
+    },
+    {
+      "id": "revenue-ops-platform",
+      "name": "RevOps Platform",
+      "year": "2022–2024",
+      "description": "Built a revenue operations platform that automated marketing attribution for mid-market B2B companies.",
+      "url": null,
+      "active": false
+    },
+    {
+      "id": "growth-agency",
+      "name": "Growth Agency",
+      "year": "2018–2022",
+      "description": "Founded and scaled a performance marketing agency serving 40+ clients across healthcare, SaaS, and e-commerce.",
+      "url": null,
+      "active": false
+    }
+  ]
+}
