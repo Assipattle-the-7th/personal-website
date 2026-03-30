@@ -108,9 +108,9 @@ A minimalist personal website for a healthcare tech founder building AI-powered 
 
 Replace all placeholder values before publishing:
 
-- [ ] `Your Name` → your real name (search & replace across all files)
-- [ ] `hello@yoursite.com` → your real email
-- [ ] `https://yoursite.com` → your real domain
+- [ ] `Doug Watson` → your real name (search & replace across all files)
+- [ ] `connect@dougwatson.ca` → your real email
+- [ ] `https://dougwatson.ca` → your real domain
 - [ ] `https://linkedin.com` → your LinkedIn profile URL
 - [ ] `https://x.com` → your X/Twitter profile URL
 - [ ] Hero bio text in `index.html`
